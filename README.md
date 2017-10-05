@@ -1,7 +1,7 @@
 # Presentations/Workshops du CFI-UL
 ## Vous souhaitez présenter un sujet?
 
-Envoyez à contact@cfiul.ca les informations suivantes :
+Simplement remplir le [formulaire de présentation](https://goo.gl/forms/hC37L7mGgvoBotlc2) ou nous envoyer à contact@cfiul.ca les informations suivantes :
 
 ### Information personnel
 - Prénom et nom
