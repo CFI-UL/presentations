@@ -1,0 +1,25 @@
+apply plugin: 'java'
+
+project.ext {
+    cucumberVersion = '1.2.+'
+    junitVersion = '4.+'
+    mockitoVersion = '1.10.+'
+    googleTruthVersion = '0.+'
+}
+
+dependencies {
+    testCompile 'info.cukes:cucumber-java8:' + cucumberVersion
+    testCompile 'info.cukes:cucumber-junit:' + cucumberVersion
+    testCompile 'junit:junit:' + junitVersion
+    testCompile 'org.mockito:mockito-all:' + mockitoVersion
+    testCompile "com.google.truth:truth:" + googleTruthVersion
+}
+
+repositories {
+    mavenCentral()
+}
+
+test {
+    testLogging.showStandardStreams = true
+    systemProperties System.getProperties()
+}
