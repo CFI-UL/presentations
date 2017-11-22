@@ -3,7 +3,7 @@ Data Mining & Social Media Robots
 Bonjour,
 Malheureusement je ne partage aucun code pour cette présentation afin d'être gentil avec la propriété intellectuelle d'autrui. Je partage seulement des liens en référence vers les outils mentionnés durant la présentation.
 
-** Outils : **
+#### Outils:
 > - [2Captcha - Capcha Solving service](https://2captcha.com/)
 > - [Celery - Task Distributing ](http://www.celeryproject.org/)
 > - [Charles Proxy ](https://www.charlesproxy.com/) 
