@@ -1,4 +1,4 @@
-# Presentations/Ateliers du CFI
+# Presentations/Ateliers du CFIUL
 
 ## Vous souhaitez présenter un sujet?
 
@@ -17,5 +17,5 @@ Simplement remplir le [formulaire de présentation](https://goo.gl/forms/hC37L7m
 - Disponibilités (dates/heures)
 - Présentation avec ou sans exercices pratiques?
 
-Le CFI vous contactera et organisera la publicité et la réservation
+Le CFIUL vous contactera et organisera la publicité et la réservation
 de la salle de présentation.
