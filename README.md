@@ -4,12 +4,12 @@
 
 Simplement remplir le [formulaire de présentation](https://goo.gl/forms/hC37L7mGgvoBotlc2) ou nous envoyer à contact@cfiul.ca les informations suivantes :
 
-### Information personnelles
+### Informations personnelles
 
 - Prénom et nom
 - Courriel
 
-### Information sur la présentation
+### Informations sur la présentation
 
 - Titre
 - Description
