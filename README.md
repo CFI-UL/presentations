@@ -1,10 +1,10 @@
-# Presentations/Ateliers du CFIUL
+# Présentations/Ateliers
 
 ## Vous souhaitez présenter un sujet?
 
 Simplement remplir le [formulaire de présentation](https://goo.gl/forms/hC37L7mGgvoBotlc2) ou nous envoyer à contact@cfiul.ca les informations suivantes :
 
-### Information personnel
+### Information personnelles
 
 - Prénom et nom
 - Courriel
