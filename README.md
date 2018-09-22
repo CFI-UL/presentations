@@ -30,4 +30,4 @@ de la salle de présentation.
 - [Data Mining](https://github.com/CFI-UL/presentations/tree/master/2017-data-mining) par [Raphael Gaudreault](https://github.com/raphaelgodro)
 
 ### 2018
-- Compétitions informatique 101 par [Félix Larose Gervais](https://github.com/filedesless), [Simon Thiboutôt](https://github.com/masterT) et [Ian Bouchard](https://github.com/corb3nik)
+- [Compétitions informatique 101](https://github.com/CFI-UL/presentations/tree/master/2018-competitions-informatique-101) par [Félix Larose Gervais](https://github.com/filedesless), [Simon Thiboutôt](https://github.com/masterT) et [Ian Bouchard](https://github.com/corb3nik)
