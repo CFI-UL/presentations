@@ -24,10 +24,10 @@ de la salle de présentation.
 ## Ateliers
 
 ### 2017
-- LSTM-RNN par Guillaume Chevalier
-- ATDD-TDD par Ian Létourneau
-- Pimp Ma Fonction par Michael Lévesque Dion
-- Data Mining par Raphael Gaudreault
+- [LSTM-RNN](https://github.com/CFI-UL/presentations/tree/master/2017-lstm-rnn) par [Guillaume Chevalier](https://github.com/guillaume-chevalier)
+- [ATDD-TDD](https://github.com/CFI-UL/presentations/tree/master/2017-atdd-tdd) par [Ian Létourneau](https://github.com/ianlet)
+- [Pimp Ma Fonction](https://github.com/CFI-UL/presentations/tree/master/2017-pimp-ma-fonction) par Michael Lévesque Dion
+- [Data Mining](https://github.com/CFI-UL/presentations/tree/master/2017-data-mining) par [Raphael Gaudreault](https://github.com/raphaelgodro)
 
 ### 2018
-- Compétitions informatique 101 par Félix Larose Gervais, Simon Thiboutôt et Ian Bouchard
+- Compétitions informatique 101 par [Félix Larose Gervais](https://github.com/filedesless), [Simon Thiboutôt](https://github.com/masterT) et [Ian Bouchard](https://github.com/corb3nik)
