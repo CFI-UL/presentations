@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">CrackMeBaby</string>
+
+    <string name="prompt_password">Password</string>
+    <string name="action_sign_in">Sign in</string>
+    <string name="action_sign_in_short">Sign in</string>
+    <string name="error_invalid_password_too_short">This password is too short</string>
+    <string name="error_incorrect_password">This password is incorrect</string>
+    <string name="error_field_required">This field is required</string>
+    <string name="success">Good job! You craked me!</string>
+    <string name="error_invalid_password_not_matching">Password does not match</string>
+</resources>

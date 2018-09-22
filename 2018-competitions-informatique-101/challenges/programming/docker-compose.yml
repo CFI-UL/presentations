@@ -1,0 +1,9 @@
+version: '3'
+services:
+  server:
+    build: .
+    ports:
+      - "11113:11113"
+    restart: "always"
+    environment:
+      - "PORT=11113"
