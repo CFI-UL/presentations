@@ -26,7 +26,7 @@ Le CFIUL vous contactera et organisera la publicité et la réservation de la sa
 
 - [LSTM-RNN](https://github.com/CFI-UL/presentations/tree/master/2017-lstm-rnn) par [Guillaume Chevalier](https://github.com/guillaume-chevalier)
 - [ATDD-TDD](https://github.com/CFI-UL/presentations/tree/master/2017-atdd-tdd) par [Ian Létourneau](https://github.com/ianlet)
-- [Pimp Ma Fonction](https://github.com/CFI-UL/presentations/tree/master/2017-pimp-ma-fonction) par Michael Lévesque Dion
+- [Pimp Ma Fonction](https://github.com/CFI-UL/presentations/tree/master/2017-pimp-ma-fonction) par [Michael Lévesque Dion](https://github.com/mlevesquedion)
 - [Data Mining](https://github.com/CFI-UL/presentations/tree/master/2017-data-mining) par [Raphael Gaudreault](https://github.com/raphaelgodro)
 
 ### 2018
