@@ -37,3 +37,4 @@ Le CFIUL vous contactera et organisera la publicité et la réservation de la sa
 ### 2019
 
 - [Coding Dojo en Python](./2019-coding-dojo-en-python) par [Michael Lévesque Dion](https://github.com/mlevesquedion)
+- [DevOps/Docker](./2019-dev-ops-et-docker) par [Marc-Antoine Fortier](https://github.com/WhippetsAintDogs)
