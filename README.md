@@ -19,7 +19,6 @@ Simplement remplir le [formulaire de présentation](https://goo.gl/forms/hC37L7m
 
 Le CFIUL vous contactera et organisera la publicité et la réservation de la salle de présentation.
 
-
 ## Ateliers
 
 ### 2017
@@ -41,3 +40,4 @@ Le CFIUL vous contactera et organisera la publicité et la réservation de la sa
 - [DevOps/Docker](./2019-dev-ops-et-docker) par [Marc-Antoine Fortier](https://github.com/WhippetsAintDogs)
 - [Introduction à Haskell](./2019-introduction-a-haskell) par [Félix Larose Gervais](https://github.com/filedesless)
 - [Introduction injections SQL](./2019-introduction-injections-sql) par [Alexandre Frigon](https://github.com/xehos), [Christopher Guay](https://github.com/crepser) et [Félix Larose Gervais](https://github.com/filedesless)
+- [Python pratique pour entrevues techniques](./2019-python-pratique-pour-entrevues-techniques) par [Michael Lévesque Dion](https://github.com/mlevesquedion)
